@@ -1,5 +1,5 @@
 {
-    "name": "antoniorova/php-skeleton",
+    "name": "antoniorova/kata-yahtzee",
     "type": "project",
     "require": {
         "symfony/framework-bundle": "^6.2",
@@ -26,12 +26,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Skeleton\\": "src/"
+            "Yahtzee\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Skeleton\\Tests\\": "tests/"
+            "Yahtzee\\Tests\\": "tests/"
         }
     },
     "scripts": {

@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Skeleton\Infrastructure\Symfony;
+namespace Yahtzee\Infrastructure\Symfony;
 
 use Symfony\Bundle\FrameworkBundle\FrameworkBundle;
 use Symfony\Bundle\FrameworkBundle\Kernel\MicroKernelTrait;
